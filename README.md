@@ -1,5 +1,5 @@
 # latihanjava8
-
+![Gambar 1](case.png)
 ## Program Kardinalitas
 
 • Mendeklarasikan <i>class Customer</i>
