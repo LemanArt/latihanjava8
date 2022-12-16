@@ -1,6 +1,6 @@
 # latihanjava8
 
-## Program Relasi
+## Program Kardinalitas
 
 • Mendeklarasikan <i>class Customer</i>
 ```java 
